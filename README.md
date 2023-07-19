@@ -1,5 +1,5 @@
 # react
- A repo to hold React focused tutorials and projects.
+ A repo to hold React tutorials and projects.
 
 Projects:
 - N/A
